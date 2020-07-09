@@ -1,0 +1,8 @@
+{
+    "getUserInfo": {
+        "name": "haibo",
+        "age": 29,
+        "sex": "man"
+    },
+    "getList": ["react", "vue", "angular"]
+}
